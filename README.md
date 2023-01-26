@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>arxea</title>
+</head>
+<body>
+	<header> <h1>Αρχεα Γ1 προτου τετραμηνου</h1> </header>
+	 <nav> 
+	   <ul> 
+        <li>Το ημη</li>
+        <li>Η εφτικη φονη</li>
+        <li>λεξιλογικο</li>
+	   </ul> 
+   </nav>
+
+   <main><h1>το ρημα ημη </h1> </main><!DOCTYPE html>
+  
+   
+   
+   <section>
+    <h2> Ενεστωτας</h2>
+      <p>οριστικη </p>
+      <ul> 
+        <li>ειμι </li>
+        <li>ει </li>
+        <li>εστιν </li>
+        <li>εσμεν </li>
+        <li>εστε </li>
+        <li>εισι(ν) </li>
+      </ul>
+
+     <p>Υποτακτικη </p>
+      <ul> 
+        <li>ω </li>
+        <li>ης </li>
+        <li>η </li>
+        <li>ωμεν </li>
+        <li>ητε </li>
+        <li>ωσιν </li>
+      </ul>
+
+    <p>Ευκτικη </p>
+      <ul> 
+        <li>ειην </li>
+        <li>ειης </li>
+        <li>ειη </li>
+        <li>ειμεν </li>
+        <li>ειτε </li>
+        <li>ειεν </li>
+      </ul>
+    <p>Προστακτικη </p>
+      <ul> 
+        <li> </li>
+        <li>ισθι </li>
+        <li>εστω </li>
+        <li> </li>
+        <li>εστε </li>
+        <li>εστων </li>
+      </ul>
+    <p>Απαρεμφατο </p>
+      <ul> 
+        <li> </li>
+        <li> </li>
+        <li> </li>
+        <li> ειναι</li>
+        <li> </li>
+        <li> </li>
+      </ul>
+
+     <p>Μετοχι </p>
+      <ul> 
+        <li> </li>
+        <li> </li>
+        <li>ων</li>
+        <li>ουσα</li>
+        <li>ον</li>
+        <li> </li>
+      </ul>
+     </section>
+
+     <section>
+     	<h2>Παρατατικος </h2>
+         <p>Οριστικη</p>
+      <ul> 
+        <li>η </li>
+        <li>ησθα </li>
+        <li>ην</li>
+        <li>ημεν </li>
+        <li>ητε </li>
+        <li>ησαν</li>
+      </ul>
+     </section>
+     <section>
+     	<h2>Μελλοντας </h2>
+     	 <p>οριστηκη </p>
+          <ul> 
+           <li>εσομαι </li>
+           <li>εστι </li>
+           <li>εσται </li>
+           <li>εσει</li>
+           <li>εσται </li>
+           <li>εσομεθα </li>
+          </ul>
+         <p>Ευκτικη</p>
+          <ul> 
+           <li>εσοιμην</li>
+           <li>εσοιο</li>
+           <li>εσοιτο</li>
+           <li>εσοιεθα</li>
+           <li>εσεισθε</li>
+           <li>εσοιντο</li>
+          </ul>
+          <p>Απαρεμφατο </p>
+          <ul> 
+           <li>-</li>
+           <li>-</li>
+           <li>εσεσθαι</li>
+           <li>-</li>
+           <li>-</li>
+           <li>-</li>
+          </ul>
+          <p>Μετοχι</p>
+          <ul> 
+           <li>-</li>
+           <li>-</li>
+           <li>εσομενος </li>
+           <li>εσομενη </li>
+           <li>εσομενον </li>
+           <li>-</li>
+          </ul>
+</section>
+
+</body>
+</html>
